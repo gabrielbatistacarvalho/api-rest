@@ -1,0 +1,8 @@
+{
+    "name": "gabriel/cursoapi",
+    "require": {},
+
+    "autoload": {
+        "classmap": ["model/"]
+    }
+}
